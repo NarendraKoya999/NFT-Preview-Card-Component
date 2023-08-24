@@ -11,7 +11,7 @@ A simple NFT preview card component created using HTML5 and CSS3.
 
 ## Preview
 
-![NFT Card Preview](./images/preview.png)
+Live Project Link: [NFT Card Preview](https://narendrakoya999.github.io/NFT-Preview-Card-Component/)
 
 ## Features
 
